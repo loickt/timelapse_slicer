@@ -1,5 +1,5 @@
 # timelapse_slicer
-Make one picture with vertical stripes from each pictures of a timelapse
+Make one picture with vertical stripes from each picture of a timelapse
 
 ### with eleven stripes, centered on the beginning of the timelapse
 ![Alt text](example/11_stripes.png)
