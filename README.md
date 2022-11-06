@@ -1,4 +1,4 @@
 # timelapse_slicer
-make one picture with vertical slices of all pictures (or part of them) of a timelapse
-
+make one picture with vertical stripes of each pictures (or part of them) of a timelapse
+-> see example folder
 Notebook yet in french
